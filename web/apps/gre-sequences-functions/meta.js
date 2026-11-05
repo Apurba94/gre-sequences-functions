@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-sequences-functions", "title": "Sequences and Functions", "exam": "GRE", "area": "GRE Quant", "desc": "Arithmetic and geometric sequences, function notation and defined operations, with solutions.", "content": [], "n": 35};
